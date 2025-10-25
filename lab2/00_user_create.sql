@@ -21,5 +21,3 @@ ALTER DEFAULT PRIVILEGES IN SCHEMA public GRANT ALL ON FUNCTIONS TO DEN4IK;
 -- Предоставление прав на все схемы
 GRANT ALL ON SCHEMA public TO DEN4IK;
 
--- Предоставление права создавать схемы
-GRANT CREATE ON DATABASE database_name TO DEN4IK;
